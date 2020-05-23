@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 564 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.191334,0,0,0.191334,-125.25,-29.884)">
+        <circle cx="1065.21" cy="563.641" r="406.094" style="fill:rgb(167,29,33);"/>
+    </g>
+    <g id="Text-bright-2" serif:id="Text bright 2" transform="matrix(0.337656,0,0,0.337656,-167.446,-54.166)">
+        <g transform="matrix(1,0,0,1,861.806,518.622)">
+            <text x="0px" y="0px" style="font-family:'MyriadArabic-It', 'Myriad Arabic';font-style:italic;font-size:395px;fill:rgb(52,48,57);">a<tspan x="139.379px 196.089px 293.146px " y="0px 0px 0px ">lsa</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,-543.344,90.4331)">
+            <text x="1139.38px" y="431.658px" style="font-family:'BrushScriptStd', 'Brush Script Std', cursive;font-weight:500;font-style:italic;font-size:400px;fill:rgb(52,48,57);">S</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1597.36,519.606)">
+            <text x="0px" y="0px" style="font-family:'MyriadArabic-It', 'Myriad Arabic';font-style:italic;font-size:395px;fill:rgb(52,48,57);">a<tspan x="139.379px 236.436px 292.864px 432.525px " y="0px 0px 0px 0px ">sión</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,192.209,97.3406)">
+            <text x="1139.38px" y="431.658px" style="font-family:'BrushScriptStd', 'Brush Script Std', cursive;font-weight:500;font-style:italic;font-size:400px;fill:rgb(52,48,57);">P</text>
+        </g>
+    </g>
+</svg>

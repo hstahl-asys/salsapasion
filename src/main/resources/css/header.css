@@ -1,0 +1,17 @@
+header {
+    z-index: 999;
+}
+.header {
+	text-align: center;
+	width: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+	background-color: #f5f5f5;
+}
+.header-logo-max {
+	max-width: 1024px;
+	margin: auto;
+}
